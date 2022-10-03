@@ -47,6 +47,18 @@ body {
   border-radius: 15px;
 }
 
+#blog-page-btn{
+  color: rgb(57, 154, 240);
+  font-size: 2.5rem;
+  position: absolute;
+  top: 3%; 
+  right: 10%;
+  transition: 0.4s;
+}
+#blog-page-btn:hover{
+  color: #eb6565;
+}
+
 #countdown {
   position: fixed;
   height: 100vh;
